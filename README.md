@@ -1,6 +1,4 @@
-# gravships
-RimWorld Gravships
-This respository contains plans that can be used with the RimWorld Mod Extended Planning.
+This respository contains plans that can be used with the RimWorld Mod Extended Planning. These are just the plans, a guide, for you to use and reshape before you start laying your own plans and blueprints.
 
 To use these files in your game make sure you have Extended Planning installed, then place the desired .pln file in your planning folder.
 
