@@ -18,4 +18,4 @@ Example: ST - Defiant 6cMT
 
 -This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles
   
-Additional the Franchise Acroynym might be appended with a lower case 'z', this is to order it at the bottom of that portion of the list, and indicate it's a version that I've added additional plans to (placements for rooms, furniture, workbenches, etc); these plans are a lot more noisy than the silhouettes, and may only make sense to me or if you watch me do a lot of planning.
+Additionally, the Franchise Acroynym might be appended with a lower case 'z', this is to order it at the bottom of that portion of the list, and indicate it's a version of the plans that I've added additional detail to; placements for rooms, furniture, workbenches, etc. These versions of the plans are a lot more noisy than the silhouettes and may only make sense to me or if you watch me do a lot of planning.
