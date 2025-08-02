@@ -26,8 +26,8 @@ Finally, Sorting Acroynym might be appended with a lower case 'z', this is to or
 --------------------------------------------
 List of Sorting Acronyms in use or planned for use:
 - B5 - inspired by Babylon5
-- BSG; inspired by Battlestar Galactica
-- BTD; beeteedubs
+- BSG - inspired by Battlestar Galactica
+- BTD - a beeteedubs original / unsure of inspiration because what is original anymore
 - EX - inspired by The Expanse
 - FF - inspired by Firefly
 - GQ - inspired by Galaxy Quest
@@ -37,4 +37,4 @@ List of Sorting Acronyms in use or planned for use:
 - RW - inspired by RimWorld
 - SC - inspired by Starcraft
 - SG - inspired by Stargate
-- ST; inspired by Star Trek
+- ST - inspired by Star Trek
