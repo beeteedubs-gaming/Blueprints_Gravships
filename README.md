@@ -39,6 +39,6 @@ List of Sorting Acronyms in use or planned for use:
 - SG - inspired by Stargate
 - ST - inspired by Star Trek
 
-
+--------------------------------------------
 These designs are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You are free to use, share, and modify these files, even commercially, as long as you provide appropriate credit (e.g., “Original design by Beeteedubs Gaming”).
