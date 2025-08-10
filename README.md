@@ -12,13 +12,13 @@ Once in game open the Planning menu added by Extended Planning and select the op
 
 **Naming Convention:**
 
-[*Sorting Acronym*] - [*Ship Name*] [*# of gravcores*][*Max Tiles(MT) or Partial Tiles (PT)*]
+[*Sorting Acronym*] - [*#*(number of extenders)][Max Tiles(*MT*) or Partial Tiles (*PT*)] [*Ship Name*]
 - Examples:
-  - ST - Defiant 6cMT
+  - ST - 6eMT Defiant
     - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles (2000/2000).
-  - ST - Defiant 0cMT
+  - ST - 0eMT Defiant
     - This would be The Defiant Class from Star Trek, 0 gravcore build using Max Tiles (500/500).
-  - STz - Defiant 6cMT
+  - STz - 6eMT Defiant
     - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'z' in "STz" indicates that this also has additional planning beyond the silhouette  + gravengine, gravcore & thruster placements. Notes below about this.
   
 **Note:** Sorting Acroynym might be appended with a lower case 'z', this is to order it at the bottom of that portion of the list and to indicate it is a version of the plans that I've added additional detail to; placements for rooms, furniture, workbenches, etc. These versions of the plans are a lot more noisy than the silhouettes and may only make sense to me or if you watch me do a lot of planning.
