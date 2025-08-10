@@ -1,8 +1,11 @@
 **Ways to Support Me:**
 
 Content Creation: [YouTube@BeteedubsGaming](https://www.youtube.com/@beeteedubsgaming) | [TikTok](https://www.tiktok.com/@beeteedubsgaming) | [YT@BeeteedubsPlays(second channel)](https://www.youtube.com/@beeteedubsplays) | [Twich@beeteedubsgaming](https://www.twitch.tv/beeteedubsgaming)
+
 Financial Support: [Ko-Fi](https://ko-fi.com/beeteedubsgaming) | [Patreon](https://www.patreon.com/beeteedubsgaming)
+
 Social Media: [BlueSky](https://bsky.app/profile/beeteedubsgaming.bsky.social)
+
 Steam Workshop: [My Mods](https://steamcommunity.com/id/beeteedubs/myworkshopfiles/?appid=294100) | [Mod Collections](https://steamcommunity.com/id/beeteedubs/myworkshopfiles/?section=collections&appid=294100)
 --------------------------------------------
 This respository contains plans featured from [Beeteedubs Gaming's](https://www.youtube.com/@beeteedubsgaming) [Gravship Blueprints](https://www.youtube.com/playlist?list=PLJr4sGCRNnwMfdDp1JhPaXJyiqVQekkPF) series on YouTube that can be used with the RimWorld mod [Extended Planning](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159). These are just the plans, a guide for you to use and reshape as you create your own plans.
