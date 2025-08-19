@@ -12,16 +12,14 @@ Once in game open the Planning menu added by Extended Planning and select the op
 
 **Naming Convention:**
 
-[*Sorting Acronym*] - [*#*(number of extenders)][Max Tiles(*MT*) or Partial Tiles (*PT*)] [*Ship Name*]
+[*Sorting Abbreviation*] [*Ship Name*] [*#*(number of extenders)][Max Tiles(*MT*) or Partial Tiles (*PT*)]
 - Examples:
-  - ST - 6eMT Defiant
+  - ST Defiant Class 6eMT
     - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles (2000/2000).
-  - ST - 0eMT Defiant
+  - ST Defiant 0eMT
     - This would be The Defiant Class from Star Trek, 0 gravcore build using Max Tiles (500/500).
-  - STz - 6eMT Defiant
-    - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'z' in "STz" indicates that this also has additional planning beyond the silhouette  + gravengine, gravcore & thruster placements. Notes below about this.
-  
-**Note:** Sorting Acroynym might be appended with a lower case 'z', this is to order it at the bottom of that portion of the list and to indicate it is a version of the plans that I've added additional detail to; placements for rooms, furniture, workbenches, etc. These versions of the plans are a lot more noisy than the silhouettes and may only make sense to me or if you watch me do a lot of planning.
+  - ST Defiant 6eMTp
+    - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'p' at the end of the extender count & tile usage string indicates that this also has additional planning beyond the silhouette + gravengine, gravcore & thruster placements. This extra plans may indicate doors, rooms, funiture, production bench placements, etc- they are probably really noisey to anyone that isn't me or hasn't spent time watching me plan and explain plans.
 
 --------------------------------------------
 List of Sorting Acronyms in use or planned for use:
