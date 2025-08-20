@@ -22,7 +22,7 @@ Once in game open the Planning menu added by Extended Planning and select the op
     - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'p' at the end of the extender count & tile usage string indicates that this also has additional planning beyond the silhouette + gravengine, gravcore & thruster placements. This extra plans may indicate doors, rooms, funiture, production bench placements, etc- they are probably really noisey to anyone that isn't me or hasn't spent time watching me plan and explain plans.
 
 --------------------------------------------
-List of Sorting Acronyms in use or planned for use:
+List of Sorting Abbreviations in use or planned for use:
 - B5 - inspired by Babylon5
 - BSG - inspired by Battlestar Galactica
 - BTD - a beeteedubs original / unsure of inspiration because what is original anymore
