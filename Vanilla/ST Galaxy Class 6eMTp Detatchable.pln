@@ -1,0 +1,6606 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savedPlanInfo>
+	<planInfo>
+		<Name>ST Galaxy Class 6eMTp Detatchable</Name>
+		<Created>638915675385420493</Created>
+		<PlanLayout>
+			<cells>
+				<li>
+					<position>(3, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(4, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(37, 0)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(2, 1)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(4, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 1)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 1)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(33, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(37, 1)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(38, 1)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(39, 2)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(39, 3)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(11, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(39, 4)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(5, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(6, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(36, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(37, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(38, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(39, 5)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 6)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 6)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 6)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 6)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 6)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 7)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 7)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 7)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 7)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 7)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 7)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 7)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 7)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 7)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 7)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 7)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 7)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 8)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 8)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 8)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 8)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 8)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 8)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 8)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 8)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 8)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 8)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 8)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 8)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 8)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 8)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 9)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 9)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 9)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 9)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 9)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 9)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 9)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(11, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 10)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(18, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 10)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 10)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 10)</position>
+					<designation>PlanFloors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 10)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(26, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 10)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 10)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 11)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 11)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 11)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 11)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 11)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(18, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 11)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(21, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 11)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(26, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 11)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 11)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 11)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 11)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 11)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 12)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 12)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 12)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 12)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 12)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 12)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 12)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 12)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 12)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 13)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 13)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 13)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(6, 14)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 14)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 14)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(39, 14)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 15)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 15)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 15)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 15)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 15)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 16)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 16)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 16)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 16)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 16)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 16)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 16)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 16)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 16)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 16)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 16)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 16)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 17)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 17)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 17)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 17)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 17)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 17)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(21, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 17)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 17)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 17)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 17)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 17)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 17)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 17)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 18)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 18)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 18)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 18)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 18)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 19)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(14, 19)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 19)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 19)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 19)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(28, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 19)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 19)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 20)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 20)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(14, 20)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 20)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 20)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(28, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 20)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 20)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 20)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 20)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 21)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 21)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(14, 21)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 21)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 21)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(28, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 21)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 21)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 21)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 21)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(1, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(3, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(4, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(5, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(6, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(9, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 22)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(15, 22)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 22)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 22)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(36, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(37, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(38, 22)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_YellowPastel</color>
+				</li>
+				<li>
+					<position>(39, 22)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(5, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(6, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(8, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 23)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(14, 23)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(26, 23)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 23)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(28, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(36, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(37, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(38, 23)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(8, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 24)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(14, 24)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(20, 24)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(26, 24)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 24)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(38, 24)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(14, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(16, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(17, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(18, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(24, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(26, 25)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(27, 25)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 25)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(38, 25)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(2, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(14, 26)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(16, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 26)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(27, 26)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 26)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(38, 26)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 27)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(14, 27)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(16, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(17, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 27)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 27)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(20, 27)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(21, 27)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(22, 27)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(26, 27)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(27, 27)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(33, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 27)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(37, 27)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(5, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(6, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 28)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(14, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(18, 28)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(20, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(21, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(22, 28)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(26, 28)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(27, 28)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(36, 28)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 29)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 29)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(16, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(17, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(18, 29)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(20, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(21, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(22, 29)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(24, 29)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(27, 29)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(28, 29)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 30)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 31)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(13, 31)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 31)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 31)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(17, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(18, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(19, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(20, 31)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(22, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(23, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(24, 31)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(25, 31)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 31)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 31)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 31)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 32)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 32)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(12, 33)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 33)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(17, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(18, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(19, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(20, 33)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(22, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(23, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(24, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(25, 33)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 33)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(30, 33)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(12, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(30, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(31, 34)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 34)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(6, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(7, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(8, 35)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 35)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 35)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(20, 35)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(21, 35)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(22, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 35)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 35)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(34, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(35, 35)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(5, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(22, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(23, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 36)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 36)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(4, 37)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(12, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 37)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 37)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 37)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(37, 37)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(3, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 38)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(5, 38)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(10, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(12, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(30, 38)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(32, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 38)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 38)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 38)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(37, 38)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(5, 39)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(6, 39)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(10, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(11, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 39)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(25, 39)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(32, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 39)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 39)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 39)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(36, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(38, 39)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(5, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 40)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(7, 40)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(10, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(11, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 40)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 40)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(31, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(32, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 40)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 40)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(35, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(38, 40)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 40)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(3, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(6, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(7, 41)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(8, 41)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(10, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(12, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(21, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(25, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(30, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(31, 41)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(32, 41)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 41)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(34, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(37, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(38, 41)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 41)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(3, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(6, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(7, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(9, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(10, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(12, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(18, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(19, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(23, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(25, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(29, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(30, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(31, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(32, 42)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(33, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 42)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(37, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(38, 42)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 42)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(8, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(9, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(10, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(12, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(13, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(18, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(19, 43)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 43)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 43)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(23, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(24, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(29, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(30, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(31, 43)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(32, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 43)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(40, 43)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(3, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 44)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(5, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(7, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(9, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(11, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(12, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(13, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(14, 44)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(17, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 44)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 44)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(20, 44)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(21, 44)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(22, 44)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 44)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(29, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(30, 44)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(31, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(32, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(33, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(36, 44)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(37, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(38, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(39, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(40, 44)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(11, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 45)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(13, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(15, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(25, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(27, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(28, 45)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_Scarlet</color>
+				</li>
+				<li>
+					<position>(29, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(39, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(40, 45)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 46)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 46)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(13, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(14, 46)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(15, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(16, 46)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(17, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(18, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(19, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(23, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(24, 46)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPastel</color>
+				</li>
+				<li>
+					<position>(25, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(26, 46)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(27, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 46)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(39, 46)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(40, 46)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(15, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(16, 47)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(18, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(19, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(20, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(21, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(22, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(23, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(24, 47)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(25, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(39, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(40, 47)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(3, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 48)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(5, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(7, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(11, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(15, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 48)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(18, 48)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(19, 48)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Marine</color>
+				</li>
+				<li>
+					<position>(20, 48)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GrayLight</color>
+				</li>
+				<li>
+					<position>(21, 48)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_Marine</color>
+				</li>
+				<li>
+					<position>(22, 48)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(23, 48)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_PurpleDeep</color>
+				</li>
+				<li>
+					<position>(25, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(29, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(32, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(33, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(36, 48)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(37, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(38, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(39, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(40, 48)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(0, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 49)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(7, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 49)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 49)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 49)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(33, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 49)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(40, 49)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(5, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(6, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(7, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(16, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(24, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(25, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(33, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(35, 50)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(38, 50)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 50)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 51)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(5, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(6, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(7, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 51)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(18, 51)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 51)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(23, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 51)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(33, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(35, 51)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(38, 51)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 51)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(1, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 52)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(7, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(18, 52)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(19, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(22, 52)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(29, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 52)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(33, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 52)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(39, 52)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(2, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(3, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(5, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(7, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(9, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(11, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(13, 53)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(14, 53)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(15, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(16, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(18, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(19, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(20, 53)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(21, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(22, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(23, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(24, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(25, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(26, 53)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(27, 53)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(29, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(31, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(32, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(33, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(34, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(36, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(37, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(38, 53)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(3, 54)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(5, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(6, 54)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(9, 54)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 54)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(18, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(19, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(21, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(22, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(23, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(29, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(30, 54)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 54)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(34, 54)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(36, 54)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(37, 54)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(3, 55)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(5, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(6, 55)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(9, 55)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 55)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(16, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(18, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(22, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(23, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(24, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(29, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(30, 55)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 55)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(34, 55)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(36, 55)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_BluePastel</color>
+				</li>
+				<li>
+					<position>(37, 55)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(4, 56)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 56)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(13, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(14, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(19, 56)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 56)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 56)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(26, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(27, 56)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(34, 56)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(36, 56)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(5, 57)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(6, 57)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 57)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(9, 57)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(13, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(14, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(15, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(19, 57)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 57)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 57)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(25, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(26, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(27, 57)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 57)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(32, 57)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(34, 57)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(35, 57)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(7, 58)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 58)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(9, 58)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(10, 58)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(11, 58)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(19, 58)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(20, 58)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(21, 58)</position>
+					<designation>PlanFloorsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(29, 58)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(30, 58)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(31, 58)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(32, 58)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(33, 58)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(8, 59)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(9, 59)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 59)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(11, 59)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(20, 59)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_GreenPine</color>
+				</li>
+				<li>
+					<position>(29, 59)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(30, 59)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(31, 59)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(32, 59)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(10, 60)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(11, 60)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(13, 60)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(14, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(16, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 60)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(18, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(22, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(23, 60)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(24, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(26, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(27, 60)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(28, 60)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(29, 60)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(30, 60)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(12, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(13, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(14, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(15, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(16, 61)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(17, 61)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(18, 61)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(19, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(20, 61)</position>
+					<designation>PlanDoors</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(21, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_White</color>
+				</li>
+				<li>
+					<position>(22, 61)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(23, 61)</position>
+					<designation>PlanWallColored</designation>
+					<color>Structure_IndigoLight</color>
+				</li>
+				<li>
+					<position>(24, 61)</position>
+					<designation>PlanObjectsColored</designation>
+					<color>Structure_Dusk</color>
+				</li>
+				<li>
+					<position>(25, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(26, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(27, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(28, 61)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(16, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(17, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(18, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(19, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(20, 62)</position>
+					<designation>PlanDoorsColored</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(21, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(22, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(23, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+				<li>
+					<position>(24, 62)</position>
+					<designation>PlanWall</designation>
+					<color>Structure_Black</color>
+				</li>
+			</cells>
+		</PlanLayout>
+	</planInfo>
+</savedPlanInfo>
