@@ -2,7 +2,7 @@
 <savedPlanInfo>
 	<planInfo>
 		<Name>FF Firefly Series 3 4ePT</Name>
-		<Created>638918446542652678</Created>
+		<Created>638918478185267623</Created>
 		<PlanLayout>
 			<cells>
 				<li>
@@ -476,22 +476,12 @@
 					<color>Structure_White</color>
 				</li>
 				<li>
-					<position>(9, 28)</position>
-					<designation>PlanWall</designation>
-					<color>Structure_White</color>
-				</li>
-				<li>
 					<position>(10, 28)</position>
 					<designation>PlanWall</designation>
 					<color>Structure_White</color>
 				</li>
 				<li>
 					<position>(32, 28)</position>
-					<designation>PlanWall</designation>
-					<color>Structure_White</color>
-				</li>
-				<li>
-					<position>(33, 28)</position>
 					<designation>PlanWall</designation>
 					<color>Structure_White</color>
 				</li>
@@ -792,16 +782,6 @@
 				</li>
 				<li>
 					<position>(39, 33)</position>
-					<designation>PlanDoorsColored</designation>
-					<color>Structure_GreenPastel</color>
-				</li>
-				<li>
-					<position>(40, 33)</position>
-					<designation>PlanDoorsColored</designation>
-					<color>Structure_GreenPastel</color>
-				</li>
-				<li>
-					<position>(41, 33)</position>
 					<designation>PlanObjectsColored</designation>
 					<color>Structure_GreenPastel</color>
 				</li>
@@ -1076,12 +1056,12 @@
 					<color>Structure_White</color>
 				</li>
 				<li>
-					<position>(13, 40)</position>
+					<position>(14, 40)</position>
 					<designation>PlanWall</designation>
 					<color>Structure_White</color>
 				</li>
 				<li>
-					<position>(29, 40)</position>
+					<position>(28, 40)</position>
 					<designation>PlanWall</designation>
 					<color>Structure_White</color>
 				</li>
@@ -1502,11 +1482,6 @@
 				</li>
 				<li>
 					<position>(22, 67)</position>
-					<designation>PlanWall</designation>
-					<color>Structure_White</color>
-				</li>
-				<li>
-					<position>(21, 68)</position>
 					<designation>PlanWall</designation>
 					<color>Structure_White</color>
 				</li>
