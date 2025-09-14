@@ -1,6 +1,6 @@
-This respository contains plans featured from [Beeteedubs Gaming's](https://www.youtube.com/@beeteedubsgaming) [Gravship Blueprints](https://www.youtube.com/playlist?list=PLJr4sGCRNnwMfdDp1JhPaXJyiqVQekkPF) series on YouTube that can be used with the RimWorld mod [Extended Planning](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159). These are just the plans, a guide for you to use and reshape as you create your own plans.
+This respository contains plans featured from [Beeteedubs Gaming's](https://www.youtube.com/@beeteedubsgaming) [Gravship Blueprints](https://www.youtube.com/playlist?list=PLJr4sGCRNnwMfdDp1JhPaXJyiqVQekkPF) series on YouTube that can be used with the RimWorld mod [Planning Extended](https://steamcommunity.com/sharedfiles/filedetails/?id=2877392159). These are just the plans, a guide for you to use and reshape as you create your own plans.
 
-To use these files in your game make sure you have Extended Planning installed, then place the desired .pln file in your planning folder. As an example my Planning folder is located here: C:\Users\beeteedubs\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Planning.
+To use these files in your game make sure you have Planning Extended installed, then place the desired .pln file in your planning folder. As an example my Planning folder is located here: C:\Users\beeteedubs\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Planning.
 
 To find yours easily in game: open the menu > options > select to open your Log File Folder = this should open your RimWorld by Ludeon Studeos Folder directly.
 
