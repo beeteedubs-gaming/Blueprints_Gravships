@@ -19,7 +19,7 @@ Once in game open the Planning menu added by Extended Planning and select the op
   - ST Defiant 0eMT
     - This would be The Defiant Class from Star Trek, 0 gravcore build using Max Tiles (500/500).
   - ST Defiant 6eMTp
-    - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'p' at the end of the extender count & tile usage string indicates that this also has additional planning beyond the silhouette + gravengine, gravcore & thruster placements. This extra plans may indicate doors, rooms, funiture, production bench placements, etc- they are probably really noisey to anyone that isn't me or hasn't spent time watching me plan and explain plans.
+    - This would be The Defiant Class from Star Trek, 6 gravcore build using Max Tiles; the 'p' at the end of the extender count & tile usage string indicates that this also has additional planning beyond the silhouette + gravengine, extender & thruster placements. This extra plans may indicate doors, rooms, funiture, production bench placements, etc- they are probably really noisey to anyone that isn't me or hasn't spent time watching me plan and explain plans.
 
 --------------------------------------------
 List of Sorting Abbreviations in use or planned for use:
